@@ -52,7 +52,7 @@ class FixtureOutputField extends React.Component {
         return (
             <div>
                 <div>
-                    <h2 className={"spacer"}>Result:</h2>
+                    <h2 className={"spacer"}>Result</h2>
                 </div>
                 <textarea
                     id="output"

@@ -42,7 +42,7 @@ class FixtureInputField extends React.Component {
     render() {
         return (
             <div>
-                <h2>Transform your BQ JSON to a fixture:</h2>
+                <h2>Transform your BQ JSON to a fixture</h2>
                 <div className="example-block">
                     <button type="button" id="simple"
                             className="btn btn-link example-text"
