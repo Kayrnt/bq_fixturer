@@ -36,7 +36,7 @@ class Template extends React.Component {
 
                 <footer className="mastfoot mt-auto">
                     <div className="inner">
-                        <p>Code by <a href="https://twitter.com/Kayrnt">@Kayrnt</a>.</p>
+                        <p><a href="https://github.com/Kayrnt/bq_fixturer">Code</a> by <a href="https://twitter.com/Kayrnt">@Kayrnt</a>.</p>
                     </div>
                 </footer>
             </div>
